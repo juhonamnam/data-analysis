@@ -35,8 +35,8 @@ matplotlib==3.6.1
 matplotlib-inline==0.1.6
 nest-asyncio==1.5.6
 numpy==1.23.4
-oauthlib==3.2.1
-opencv-python==4.6.0.66
+oauthlib==3.2.2
+opencv-python-headless==4.6.0.66
 opt-einsum==3.3.0
 packaging==21.3
 parso==0.8.3
@@ -68,7 +68,7 @@ tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.0.1
 tf-explain==0.3.1
 tornado==6.2
-traitlets==5.4.0
+traitlets==5.5.0
 typing_extensions==4.4.0
 urllib3==1.26.12
 wcwidth==0.2.5
